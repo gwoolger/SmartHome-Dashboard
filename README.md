@@ -1,6 +1,6 @@
 # SmartHome Dashboard
 
-This is a project that will have an eink display - monochrome for best refresh rate. An MCU for low power things, and an optional SBC for running home assistant style things.
+This is a project that will have an eink display - monochrome for best refresh rate. An MCU for low power things, and a SBC for running home assistant style things.
 
 ## Project Plans
 ### Cost
@@ -25,3 +25,5 @@ Will ideally be able to run both off grid and on grid, with the batteries acting
 
 ### Possibly...
 Originally wanted to make the solar panel track the sun, but the added cost for servos etc probably isn't worth it, especially as the panel likely won't be able to sustain the board indefinitely.
+
+Also did find a decent looking 7.5" e ink panel on AliExpress for $25, but that was bwr, so would have a stupid long refresh rate. But could be good for people who don't want dynamically updating info.
