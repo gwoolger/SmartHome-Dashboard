@@ -144,3 +144,7 @@ A 64gb one for £7. So will see what remaining budget I have.
 Almost definitely going with a rpi3b now, having spent this long researching whether it will work with HA.
 
 Oh and did I mention, CEX has a 5 year warranty? 5 whole years. Not sure how that works with MicroSD cards...?
+
+Oh and an update, found the Pi3B in a re cent supported list on the HAOS github:
+
+![10501](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/ab2a1fd5f7e0b59616ef8d02edf7291836641c793e64daa49c76919d3423ad5d.png)
