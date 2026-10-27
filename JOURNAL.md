@@ -113,7 +113,7 @@ Spent too long looking up parts, mostly to find I don't actually want to use the
 
 So yesterday, when I looked at SBC's, I decided to go for the Pi3 B (1gb). And that was £22 on CEX. It has since dropped to £20!
 
-But anyway, I have also realised that there is a Pi5 4gb in the shop, but it seems very overpriced, for mediocre performance, and I figured I might as well make the project entirely fit in the. $100. and £20, so like $31 with shipping, is a low enough percentage it makes sense. (Though somehow the B+ model has gone up from £28 to £35??)
+But anyway, I have also realised that there is a Pi5 4gb in the shop, but it seems very overpriced, for an interesting price to performance ($151 in shop?? for 4gb?), and I figured I might as well make the project entirely fit in the. $100. and £20, so like $31 with shipping, is a low enough percentage it makes sense. (Though somehow the B+ model has gone up from £28 to £35??)
 
 ![10497](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/9bb5d18578bdda05d8bfb1a848af60440ad61300443e62fc52c929898710fde3.png)
 
