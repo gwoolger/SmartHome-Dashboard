@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 15.7h | 4 |
+| Week 4 | Tier 3 | 14.8h | 4 |
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 ### 2026-10-26: # Started researching Ideas
 
-**6h**
+**5.1h**
 
 # Started researching Ideas
 
