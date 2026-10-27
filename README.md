@@ -4,20 +4,23 @@ This is a project that will have an eink display - monochrome for best refresh r
 
 ## Current Status
 
+### Display
+
+Everything will be build around and for a 4.2" Black and White 400x300 E ink display
+
+The one I have chosen is the AliExpress WeAct Eink bw display
+
+![eink](images/eink.png)
+
 ### Raspberry Pi 3 B (1gb)
 
 Will be using a Raspberry Pi 3 B 1gb, as it is the cheapest SBC that I can find that can run Home Assistant.
 
 ![Rpi3b](images/rpi3b.jpg)
 
-
 ## Project Plans
-### Cost
-This will ideally cost less than $100, as I will be aiming for the tier 3 grant of half life, so I can maximise the screen size.
 
-It will not however include battery cells (standard 18650s), as they are too expensive to include (and I also already have some).
-
-Will also be figuring out budget for other parts, then getting the largest/most expensive screen I can (keeping it all under $100).
+> will get outdated very quickly, and possibly not updated as quick
 
 ### Rough parts
 
