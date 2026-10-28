@@ -235,8 +235,8 @@ So I ended up back on AliExpress, and found a 4.2" one. So a tiny bit better
 
 ![10618](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/f228d3286a83b47cacc1b9eadbfdfb4ca8db5c715601a07c249a156d13e7e259.png)
 
-And at $23, it'll fit in budget. And for now, $23 for the screen and the driver hardware, is something I think has a decent price to performance.
+And at $25, it'll fit in budget. And for now, $25 for the screen and the driver hardware, is something I think has a decent price to performance.
 
 ## tl;dr
 
-Looked through quite an interesting assortment of E ink displays - I assume the black white red ones are surplus shop displays - and have now ended up on an AliExpress 4.2" bw 400x300 screen.
+Looked through quite an interesting assortment of E ink displays - I assume the black white red ones are surplus shop displays - and have now ended up on an AliExpress 4.2" bw 400x300 screen. Actually got a really good ppi somehow.
