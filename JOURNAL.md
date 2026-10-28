@@ -61,11 +61,11 @@ but...
 
 They're like all out of stock. EVERYWHERE.
 
-So also having heard of Orange Pi being raspberry pi clones, went and looked them up.
+So also having heard of Orange Pi being raspberry pi clones, went and looked them up. Might have been my pc, but I'm pretty sure the orangepi.org website was down for a good while, then still took an age to load.
 
 ![10467](https://halflife.hackclub-assets.com/sessions/QXCoV5Opaf2tVWRHLncynf97ZTE9HKDO/49363ca88d9e39f4f262d1c8176db6c896fcfacd5cbb0ecd1f9aef7c33dda6fd.png)
 
-Yup, you say the price. A whole $91 for something less powerful than my 2nd gen intel CPU. That was surprising. tbh, didn't realise quite how good 2nd gen intel actually still is.
+Yup, you say the price. A whole $91 for something less powerful than my 2nd gen intel CPU. That was surprising. tbh, didn't realise quite how good 2nd gen intel actually still is. Not that it was struggling a bit with this many tabs open lol.
 
 So with pi clones out of the question, I turned to even more pi clones:
 
