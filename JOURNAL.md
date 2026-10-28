@@ -248,6 +248,8 @@ Looked through quite an interesting assortment of E ink displays - I assume the 
 
 # Battery and power stuff
 
+Arguably the most significant part. So putting a lot of time in, as don't want to get wrong.
+
 ## Yet more Research
 
 So annoyingly, this project is mostly going to be spent on research, especially in the design phase. But I guess its still working on it, just not exactly doing anything fancy.
