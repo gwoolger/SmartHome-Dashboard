@@ -18,7 +18,7 @@
 2. [2026-10-27: # More Research](#2026-10-27-more-research)
 3. [2026-10-27: # Found a Solar Panel](#2026-10-27-found-a-solar-panel)
 4. [2026-10-27: # Found a Screen](#2026-10-27-found-a-screen)
-5. [2026-10-28: # Made some hard decisions](#2026-10-28-made-some-hard-decisions)
+5. [2026-10-28: # Battery and power stuff](#2026-10-28-battery-and-power-stuff)
 
 ## Design
 
@@ -242,11 +242,11 @@ And at $25, it'll fit in budget. And for now, $25 for the screen and the driver 
 
 Looked through quite an interesting assortment of E ink displays - I assume the black white red ones are surplus shop displays - and have now ended up on an AliExpress 4.2" bw 400x300 screen. Actually got a really good ppi somehow.
 
-### 2026-10-28: # Made some hard decisions
+### 2026-10-28: # Battery and power stuff
 
 **4.97h**
 
-# Made some hard decisions
+# Battery and power stuff
 
 ## Yet more Research
 
