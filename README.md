@@ -10,6 +10,25 @@ This is the current wiring shematic for everything. Power will be provided to th
 
 ![Schematic](images/Schematic_v1.png)
 
+Current Pinouts:
+---
+|ESP32 C6||
+| - | - |
+| D0 D1, D2 | empty |
+| D3/21 | CS |
+| D4/22 | DC |
+| D5/23 | RST |
+| D6/16 | TX |
+| D7/17 | RX |
+| D8/19 | SCK |
+| D9/20 | BUSY |
+| D10/18 | MOSI |
+
+|Pi||
+|-|-|
+| 8/14 | TX (Connects to ESP RX) |
+| 10/15 | RX (Connects ESP TX) |
+
 ### Display
 
 Everything will be build around and for a 4.2" Black and White 400x300 E ink display
