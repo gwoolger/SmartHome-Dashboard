@@ -46,4 +46,4 @@ while True:
             display.show()
                 
 
-    time.sleep(60)  # Same delay as the Pi sends. But dont know how to sync?
+    time.sleep(0.1)  # Wont refresh screen, as waits for uart.any
