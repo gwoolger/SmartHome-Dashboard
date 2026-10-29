@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 3 | 25.9h | 6 |
+| Week 4 | Tier 3 | 24.9h | 6 |
 
 ## Contents
 
@@ -189,7 +189,7 @@ Figured out a pre made solar panel charging setup would be more cost effective, 
 
 ### 2026-10-27: # Found a Screen
 
-**4.2h**
+**3.2h**
 
 # Found a Screen
 
