@@ -6,7 +6,7 @@ This is a project that will have an eink display - monochrome for best refresh r
 
 ### Wiring Schematic
 
-This is the current wiring shematic for everything. Power will be provided to the Pi's onboard port, with the ESP32 being wired up to the Pi'2 5V pin.
+This is the current wiring shematic for everything. Power will be provided to the Pi's onboard port, with the ESP32 being wired up to the Pi's 5V pin.
 
 ![Schematic](images/Schematic_v1.png)
 
@@ -47,10 +47,7 @@ Will be using a Raspberry Pi 3 B 1gb, as it is the cheapest SBC that I can find 
 
 Chosed for it's Zigbee/Thread capabilities, decent performance, and cheap-ish price.
 
-## Project Plans
-
-> will get outdated very quickly, and possibly not updated as quick
-
+## Project Info
 ### Rough Parts
 
 - WeAct 4.2" epaper display
@@ -73,3 +70,5 @@ Originally wanted to make the solar panel track the sun, but the added cost for 
 Also did find a decent looking 7.5" e ink panel on AliExpress for $25, but that was bwr, so would have a stupid long refresh rate. But could be good for people who don't want dynamically updating info.
 
 Was also going to make a custom Battery system, but it ended up costing more - actually only about $5 above the limit (I spent way too long looking at Aliexpress). That would have involved battery charging boards etc, as well as MOSFETs to open or close charging and power paths.
+
+Was also hoping to get a more powerful MCU, but the ESP32 S3 doesnt have Zigbee or Thread support, and the ESP32 S31 that does costs more than the Pi.
