@@ -370,6 +370,8 @@ This image is just an example of hardware greyscale, and could be complemented f
 
 I still havent decided whether I'll keep 4 colour greyscale as a long term feature, as it seems it can damage the screen over long periods of time.
 
+Oh, and for when HA (home assistant) is running, I'll see if I can make a purely on the esp32 display thing, so it isnt taking up the limited ram from the pi. But will be very basic visuals.
+
 ## Removed the Battery system
 
 I almost forgot, I removed the custom battery solution I spent all of the last journal researching for. This is as when I added the parts up, it came to well over $100, but I found, I can just use a battery pack, and plug the solar charge in, and it will charge the batteries, and just have the power bank output go into the raspberry pi. And I already have a power bank capable of passthrough charging, so may be able to take that off the budget (or mabye not, as the output wattage might not be high enough for the Pi).
