@@ -38,12 +38,12 @@ while True:
             
             print(f"Synced -> Temp: {room_temp}C | Battery: {system_batt}%")
             
-            # Canvas drawing sequence
-            display.fill(1) # Inherited background method
+            # epaper. hopefully correct corrdinates. dont have screen to test.
+            display.fill(1) # Am hoping this is inherited from framebuf, as if not will not work
             display.text("SMARTHOME DASHBOARD", 20, 20, 0)
             display.text(f"Room Temp:  {room_temp} C", 20, 60, 0)
             display.text(f"Battery:    {system_batt}%", 20, 90, 0)
             display.show()
                 
 
-    time.sleep(?)
+    time.sleep(60)  # Same delay as the Pi sends. But dont know how to sync?
