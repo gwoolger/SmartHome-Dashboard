@@ -53,6 +53,8 @@ Will be using a Raspberry Pi 3 B 1gb, as it is the cheapest SBC that I can find 
 
 ![Rpi3b](images/rpi3b.jpg)
 
+Will also use a USB WiFi adapter, as the Pi is meant to have a really bad antennae, and wired ethernet isn't an option for me.
+
 ### Xiao ESP32 C6
 
 Chosed for it's Zigbee/Thread capabilities, decent performance, and cheap-ish price.
