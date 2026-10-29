@@ -88,3 +88,5 @@ Was also hoping to get a more powerful MCU, but the ESP32 S3 doesnt have Zigbee 
 
 
 Shipping is just for CEX, as Aliexpress Choice automatically includes shipping in the price.
+
+But will probably be cheaper, due to Aliexpress deals, just can't count on them, as they arent always on.
