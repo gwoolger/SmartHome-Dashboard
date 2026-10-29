@@ -29,6 +29,16 @@ Current Pinouts:
 | 8/14 | TX (Connects to ESP RX) |
 | 10/15 | RX (Connects ESP TX) |
 
+### Power Plan
+
+Using a phone charger solar panel. So outputs clean USB 5V.
+
+That charges a Power bank.
+
+The power bank has its own internal battery management things.
+
+The Pi is plugged into the battery pack, and the esp is driven off the pi.
+
 ### Display
 
 Everything will be build around and for a 4.2" Black and White 400x300 E ink display
@@ -48,16 +58,6 @@ Will be using a Raspberry Pi 3 B 1gb, as it is the cheapest SBC that I can find 
 Chosed for it's Zigbee/Thread capabilities, decent performance, and cheap-ish price.
 
 ## Project Info
-### Rough Parts
-
-- WeAct 4.2" epaper display
-- Xiao ESP32 C6
-- Raspberry Pi 3 B 1gb
-- 64gb Micro SD card
-- Power bank with passthrough and suitable wattage output
-- USB Solar Panel
-
-
 ### Features
 
 An E ink display for low power dashboard data. Will pair with a Sound Pad from week 3, recoded for controls. And will be used to automate fully the curtain opener project developed in weeks 1 and 2.
