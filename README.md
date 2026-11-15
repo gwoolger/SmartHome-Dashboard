@@ -6,6 +6,17 @@ It will also work as a seperate web reader, with the Pi loading the websites and
 
 ## Current Status
 
+### Code
+#### Home Assistant
+Currently it has the skeleton of the code needed to send the home assistant data over UART to the ESP32, and to have it displayed. I will likely have to change the Pi side to be a home assistant plugin if I decided to go with HAOS
+
+#### WebPage Display
+In WebReader, there is the ESP32 and Pi code to fetch and render a website on the Pi, turn it to greyscale, and sent it over UART to the ESP32 (is too computationally intesnsive to all be done on the esp32). The esp32 then recieves it over UART, then displays it on the e ink screen. 
+
+It is currently set to display BBC news.
+
+The esp32 is there so i could possibly implememnt deep sleep things in the future.
+
 ### Wiring Schematic
 
 This is the current wiring shematic for everything. Power will be provided to the Pi's onboard port, with the ESP32 being wired up to the Pi's 5V pin.
