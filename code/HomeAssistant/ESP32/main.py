@@ -6,7 +6,7 @@
 import json
 import time
 import machine
-import epaper4in2
+import code.HomeAssistant.ESP32.epaper4in2 as epaper4in2
 
 
 spi_bus = machine.SPI(1, baudrate=4000000, polarity=0, phase=0, sck=machine.Pin(19), mosi=machine.Pin(18))

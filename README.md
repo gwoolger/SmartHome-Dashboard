@@ -2,6 +2,8 @@
 
 This is a project that will have an eink display - monochrome for best refresh rate. An MCU for low power things, and a SBC for running home assistant style things.
 
+It will also work as a seperate web reader, with the Pi loading the websites and doing all the heavy math for software dithering, before communicating the image to the esp32 to display. 
+
 ## Current Status
 
 ### Wiring Schematic
@@ -88,7 +90,14 @@ Was also hoping to get a more powerful MCU, but the ESP32 S3 doesnt have Zigbee 
 | Estimated total shipping | Shipping and tax for the whole order | 1 | — | $8.00 | $8.00 | — |
 | **Grand Total** | | | | | **$102.37** | |
 
-
 Shipping is just for CEX, as Aliexpress Choice automatically includes shipping in the price.
 
 But will probably be cheaper, due to Aliexpress deals, just can't count on them, as they arent always on.
+
+### Battery Pack:
+| Item | Part Justification | Qty | Supplier | Cost/item | Total Cost | Link |
+|---|---|---:|---|---:|---:|---|
+| 10,000mAh UPS battery back | Batt backup | 1 | Amazon | $18.55 | $18.55  | [Amazon](https://www.amazon.co.uk/AsperX-Portable-Charging-PowerBank-Compatible/dp/B0C53K4C4R/ref=sr_1_2?crid=27PZY6TS3Y76M&dib=eyJ2IjoiMSJ9.GQSgrBgHRMmli4nH_sRnONndWcDdOJ1X6z7dBz3YDhfGRNvWS8pcDOdWPT5hIIDvqhOQTU9hdW3s2MN4CsX7P-ZmWXePdw30tfbHtpAQ7rtKUvWPVnLR4sSX0SrHEx8J9EEA_A9QsyFzqiZajgbbW13m0uuzFnMeHt7X9ZMv4gjFRuMDWlnjMtGOBLNUCdP7E4n4BPmTtZEon2RiE9V803KgWhkEjbTQz0La4S9nBFw.CWZt8cyFcfpBGvRRLnfyoNwOrZLaCseqNUpR2iGUKBk&dib_tag=se&keywords=power%2Bbank%2B10000%2Basperx&qid=1794746053&sprefix=power%2Bbank%2B10000%2Basper%2Caps%2C117&sr=8-2&th=1) |
+
+
+So total with a new battery pack is $120.92 (If you already have one, a new one isnt needed, hence nt being in the BOM).
